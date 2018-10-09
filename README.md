@@ -7,16 +7,16 @@ We are also planning for using blockchain technology for making database and soc
 
 ### Team members and contributers
 ```markdown
-**-Ranjeet Kumar
--Sonu Singh
--Edith Topno**
+- **Ranjeet Kumar**
+- **Sonu Singh**
+- **Edith Topno**
+
 ```
 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dominatorss/CancelMyMeal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
 In case you have queries or Having trouble with Pages? 
 [contact us](https://cancelmymeal@gmail.com/) and we’ll help you sort it out.
-you can write mail on https://cancelmymeal@gmail.com/
+you can write mail on cancelmymeal@gmail.com
