@@ -13,10 +13,12 @@ In this project, we're creating a Mobile app platform which posses some great fe
  *Ranjeet Kumar
  *Sonu Singh
  *Edith Topno
-</ul>
 
 ```
 
+* Ranjeet Kumar
+* Sonu Singh
+* Edith Topno
 
 
 ### Support or Contact
