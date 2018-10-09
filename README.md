@@ -7,9 +7,9 @@ We are also planning for using blockchain technology for making database and soc
 
 ### Team members and contributers
 ```markdown
-- **Ranjeet Kumar**
-- **Sonu Singh**
-- **Edith Topno**
+-Ranjeet Kumar
+-Sonu Singh
+-Edith Topno
 
 ```
 
