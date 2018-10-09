@@ -9,8 +9,8 @@ some complex machine algorithms after observing this behaviour of that person.
 Its major feature is behaviour based meal prediction for a day through which 
 vendors can also estimate their regular consumption.
 
-We are also planning for using blockchain technology for our database and social networks for making 
-predictions more accurate and precised.
+We are also planning for using blockchain technology for our database and 
+social networks for making predictions more accurate and precised.
 
 ````
 
