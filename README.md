@@ -8,9 +8,9 @@ We are also planning for using blockchain technology for making database and soc
 
 ### Team members and contributers
 ```markdown
-- Ranjeet Kumar
-- Sonu Singh
-- Edith Topno
+* Ranjeet Kumar
+* Sonu Singh
+* Edith Topno
 
 ```
 
@@ -19,7 +19,6 @@ We are also planning for using blockchain technology for making database and soc
 ### Support or Contact
 
 In case you have queries or Having trouble with Pages? 
-
 [contact us](https://cancelmymeal@gmail.com/) and we’ll help you sort it out.
 
 you can mail us our email is **cancelmymeal@gmail.com**
