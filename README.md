@@ -10,10 +10,9 @@ In this project, we're creating a Mobile app platform which posses some great fe
 ### Team members and contributers
 ```markdown
  list:
- <ul>
- <li> Ranjeet Kumar</li>
- <li> Sonu Singh</li>
- <li> Edith Topno</li>
+ *Ranjeet Kumar
+ *Sonu Singh
+ *Edith Topno
 </ul>
 
 ```
