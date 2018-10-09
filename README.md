@@ -9,7 +9,7 @@ In this project, we're creating a Mobile app platform which posses some great fe
 
 ### Team members and contributers
 ```markdown
-
+# list:
 * Ranjeet Kumar
 * Sonu Singh
 * Edith Topno
