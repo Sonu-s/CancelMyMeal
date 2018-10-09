@@ -18,7 +18,7 @@ We are also planning for using blockchain technology for making database and soc
 
 ### Support or Contact
 
-In case you have queries or Having trouble with Pages? 
+In case you have queries or Having trouble with Pages? <br/>
 [contact us](https://cancelmymeal@gmail.com/) and we’ll help you sort it out.
 
 you can mail us our email is **cancelmymeal@gmail.com**
