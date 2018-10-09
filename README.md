@@ -16,8 +16,8 @@ predictions more accurate and precised.
 
 ### Team members and contributers
 
-- [Ranjeet Kumar] (https://github.com/rs119574)
-- [Sonu Singh] (https://github.com/Sonu-s)
+- [Ranjeet Kumar](https://github.com/rs119574)
+- [Sonu Singh](https://github.com/Sonu-s)
 - Edith Topno
 
 
