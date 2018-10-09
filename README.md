@@ -1,7 +1,5 @@
-
+### Welcome to CancelMyMeal
 ```markdown
-
-#### Welcome to CancelMyMeal
 
 This ongoing project targets regular mess costumers and vendors who serve meals on
 the regular basis.
