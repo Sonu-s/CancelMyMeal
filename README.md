@@ -26,4 +26,4 @@ social networks for making predictions more accurate and precised.
 In case you have queries or Having trouble with Pages? <br/>
 [contact us](mailto:cancelmymeal@gmail.com/) and we’ll help you sort it out.
 
-you can mail us our email is **cancelmymeal@gmail.com**
+you can mail us our email is **cancelmymeal1@gmail.com**
